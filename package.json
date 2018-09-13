@@ -1,0 +1,15 @@
+{
+  "name": "parcel-bug-raw-asset",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel serve index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "parcel-bundler": "^1.9.7"
+  }
+}
